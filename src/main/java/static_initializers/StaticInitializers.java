@@ -15,7 +15,8 @@ public class StaticInitializers {
                 flag = false;
                 throw new Exception("Breadth and height must be positive");
             }
-        } catch (Exception ignored) {
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
         }
     }
 
