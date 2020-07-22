@@ -1,4 +1,4 @@
-package datatypes;
+package java_classics.datatypes;
 
 import java.util.Scanner;
 

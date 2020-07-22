@@ -1,4 +1,4 @@
-package static_initializers;
+package java_classics.static_initializers;
 
 import java.util.Scanner;
 
