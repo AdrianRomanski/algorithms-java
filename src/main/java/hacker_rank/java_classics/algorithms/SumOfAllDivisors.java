@@ -6,6 +6,9 @@ public class SumOfAllDivisors {
 
         System.out.println(sumOfDivisors(6));
 
+        Double test = 2.0;
+
+
     }
 
     static int sumOfDivisors(int n) {
@@ -17,4 +20,6 @@ public class SumOfAllDivisors {
         }
         return sum;
     }
+
+
 }
