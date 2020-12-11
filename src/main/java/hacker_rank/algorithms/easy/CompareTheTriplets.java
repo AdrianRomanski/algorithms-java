@@ -1,4 +1,4 @@
-package hacker_rank.algorithms;
+package hacker_rank.algorithms.easy;
 
 import java.util.ArrayList;
 import java.util.Arrays;
