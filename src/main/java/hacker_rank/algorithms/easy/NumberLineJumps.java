@@ -6,7 +6,6 @@ public class NumberLineJumps {
 
     }
 
-
     // Complete the kangaroo function below.
     static String kangaroo(int x1, int v1, int x2, int v2) {
         String result = "NO";
@@ -20,5 +19,4 @@ public class NumberLineJumps {
         }
         return result;
     }
-
 }
